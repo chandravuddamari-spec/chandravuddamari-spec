@@ -312,6 +312,17 @@ Pandit Deendayal Energy University | Aug 2020 - Jun 2024
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandravuddamari-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e3a8a&title_color=f59e0b&icon_color=3b82f6&text_color=ffffff)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandravuddamari-spec&theme=tokyonight" height="170" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandravuddamari-spec&theme=tokyonight" height="170" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandravuddamari-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e3a8a&title_color=f
+<img src="https://streak-stats.demolab.com/?user=chandravuddamari-spec&theme=tokyonight&hide_border=true&background=1e3a8a&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:1e3a8a&height=120&section=footer)
+
+</div>
