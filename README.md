@@ -2,8 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:3b82f6&height=200&section=header&text=Sai%20Chandra%20Vuddamari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Research%20and%20Innovation%20Analyst%20|%20Data%20Strategy%20Leader&descAlignY=55&descSize=18)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saichandra375.lovable.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sssaichandra375@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saichandravuddamari.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandravuddamari@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-469--360--0738-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:469-360-0738)
 
 </div>
@@ -300,8 +300,8 @@ Pandit Deendayal Energy University | Aug 2020 - Jun 2024
 
 ### **Let's Connect on Strategic Data Initiatives**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saichandra375.lovable.app/)
-[![Email](https://img.shields.io/badge/Email-sssaichandra375@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sssaichandra375@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saichandravuddamari.com)
+[![Email](https://img.shields.io/badge/Email-chandravuddamari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandravuddamari@gmail.com)
 [![Phone](https://img.shields.io/badge/Direct_Line-469--360--0738-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:469-360-0738)
 
 </div>
